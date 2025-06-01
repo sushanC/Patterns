@@ -1,2 +1,6 @@
 # Patterns
 pattrens using c++
+* * * *
+* * * *
+* * * *
+* * * *
