@@ -1,7 +1,2 @@
 # Patterns
 pattrens using c++
-
-+ + + +
-+ + + +
-+ + + + 
-+ + + +
